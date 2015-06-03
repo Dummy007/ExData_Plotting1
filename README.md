@@ -1,3 +1,7 @@
+## MY SOLUTIONS ARE IN THE FOLDER "MY CHANGES". 
+
+
+
 ## Introduction
 
 This assignment uses data from
